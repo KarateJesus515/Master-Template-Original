@@ -1,0 +1,72 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Component_Keypad_Background_mat1
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd A:/Keep Talking and Nobody Explodes Mod Dev/NewTest/Users/Work/Dropbox/Contracts/KTaNE/C02 - Aug4-Aug8/Dev/Textures/TEXTURE_PNG/Component_Keypad_Background.png
+
+newmtl Component_Keypad_LED_OFF_mat
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd A:/Keep Talking and Nobody Explodes Mod Dev/NewTest/Users/Work/Dropbox/Contracts/KTaNE/C01 - Jul28-Aug1/dev/final set/Assets/Assets/textures/Component_Keypad_LED_OFF.psd
+
+newmtl Component_Keypad_mat1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd A:/Keep Talking and Nobody Explodes Mod Dev/NewTest/Users/Work/Dropbox/Contracts/KTaNE/C01 - Jul28-Aug1/dev/final set/Assets/Assets/textures/Component_Keypad.psd
+
+newmtl Component_Keypad_mat2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd A:/Keep Talking and Nobody Explodes Mod Dev/NewTest/Users/Work/Dropbox/Contracts/KTaNE/C01 - Jul28-Aug1/dev/final set/Assets/Assets/textures/Component_Keypad.psd
+
+newmtl Component_Keypad_mat3
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd A:/Keep Talking and Nobody Explodes Mod Dev/NewTest/Users/Work/Dropbox/Contracts/KTaNE/C01 - Jul28-Aug1/dev/final set/Assets/Assets/textures/Component_Keypad.psd
+
+newmtl Component_Keypad_mat4
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Component_PuzzleBackground_mat
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd A:/Keep Talking and Nobody Explodes Mod Dev/NewTest/Users/Work/Dropbox/Contracts/KTaNE/C02 - Aug4-Aug8/Dev/Textures/TEXTURE_PNG/Component_PuzzleBackground.png
